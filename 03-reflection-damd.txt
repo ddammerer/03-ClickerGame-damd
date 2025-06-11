@@ -1,0 +1,3 @@
+Task was easily achivable in the time given. 
+No big problems, I just had to look up how PlayerPrefs Work. 
+Working with AI (for Images and Name) also worked flawlessly.
